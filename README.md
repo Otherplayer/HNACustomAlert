@@ -1,6 +1,6 @@
 # HNACustomAlert
 
-![image](https://github.com/Otherplayer/HNAGithubEmojis/raw/master/WX20170905.png)
+![image](https://github.com/Otherplayer/HNACustomAlert/raw/master/WX20170905.png)
 
 
 ```
