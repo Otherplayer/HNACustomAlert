@@ -1,5 +1,7 @@
 # HNACustomAlert
 
+![image](https://github.com/Otherplayer/HNAGithubEmojis/raw/master/WX20170905.png)
+
 
 ```
         var count : UInt32 = 0
